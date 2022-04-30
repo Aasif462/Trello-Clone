@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/drawable/ic_black_color_back_24dp.xml" value="0.2385" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/drawable/ic_vector_color_accent_done_24dp.xml" value="0.104" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/drawable/logo_foreground.xml" value="0.2385" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout-v23/activity_intro.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/activity_base.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/activity_intro.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/activity_profile.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/activity_sign_in.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/activity_sign_up.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/activity_splash_screen.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/app_bar_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/content_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/main_content.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/nav_header_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/layout/please_wait_dialog.xml" value="0.23229166666666667" />
+        <entry key="..\:/Android from Start to End/TrelloClone/app/src/main/res/menu/activity_main_drawer.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
